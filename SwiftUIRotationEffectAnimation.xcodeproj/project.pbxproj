@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		D66D58762CF4BCD90077A90D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D66D585D2CF4BCD60077A90D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D66D58642CF4BCD60077A90D;
+			remoteInfo = SwiftUIRotationEffectAnimation;
+		};
+		D66D58802CF4BCD90077A90D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D66D585D2CF4BCD60077A90D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D66D58642CF4BCD60077A90D;
+			remoteInfo = SwiftUIRotationEffectAnimation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D66D58652CF4BCD60077A90D /* SwiftUIRotationEffectAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIRotationEffectAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D66D58752CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIRotationEffectAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D66D587F2CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIRotationEffectAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		D66D58672CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRotationEffectAnimation;
+			sourceTree = "<group>";
+		};
+		D66D58782CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRotationEffectAnimationTests;
+			sourceTree = "<group>";
+		};
+		D66D58822CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SwiftUIRotationEffectAnimationUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D66D58622CF4BCD60077A90D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D58722CF4BCD90077A90D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D587C2CF4BCD90077A90D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D66D585C2CF4BCD60077A90D = {
+			isa = PBXGroup;
+			children = (
+				D66D58672CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */,
+				D66D58782CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests */,
+				D66D58822CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests */,
+				D66D58662CF4BCD60077A90D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D66D58662CF4BCD60077A90D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D66D58652CF4BCD60077A90D /* SwiftUIRotationEffectAnimation.app */,
+				D66D58752CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests.xctest */,
+				D66D587F2CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D66D58642CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D66D58892CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimation" */;
+			buildPhases = (
+				D66D58612CF4BCD60077A90D /* Sources */,
+				D66D58622CF4BCD60077A90D /* Frameworks */,
+				D66D58632CF4BCD60077A90D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				D66D58672CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */,
+			);
+			name = SwiftUIRotationEffectAnimation;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRotationEffectAnimation;
+			productReference = D66D58652CF4BCD60077A90D /* SwiftUIRotationEffectAnimation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D66D58742CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D66D588C2CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimationTests" */;
+			buildPhases = (
+				D66D58712CF4BCD90077A90D /* Sources */,
+				D66D58722CF4BCD90077A90D /* Frameworks */,
+				D66D58732CF4BCD90077A90D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D66D58772CF4BCD90077A90D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D66D58782CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests */,
+			);
+			name = SwiftUIRotationEffectAnimationTests;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRotationEffectAnimationTests;
+			productReference = D66D58752CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D66D587E2CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D66D588F2CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimationUITests" */;
+			buildPhases = (
+				D66D587B2CF4BCD90077A90D /* Sources */,
+				D66D587C2CF4BCD90077A90D /* Frameworks */,
+				D66D587D2CF4BCD90077A90D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D66D58812CF4BCD90077A90D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				D66D58822CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests */,
+			);
+			name = SwiftUIRotationEffectAnimationUITests;
+			packageProductDependencies = (
+			);
+			productName = SwiftUIRotationEffectAnimationUITests;
+			productReference = D66D587F2CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D66D585D2CF4BCD60077A90D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					D66D58642CF4BCD60077A90D = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					D66D58742CF4BCD90077A90D = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D66D58642CF4BCD60077A90D;
+					};
+					D66D587E2CF4BCD90077A90D = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = D66D58642CF4BCD60077A90D;
+					};
+				};
+			};
+			buildConfigurationList = D66D58602CF4BCD60077A90D /* Build configuration list for PBXProject "SwiftUIRotationEffectAnimation" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D66D585C2CF4BCD60077A90D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = D66D58662CF4BCD60077A90D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D66D58642CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */,
+				D66D58742CF4BCD90077A90D /* SwiftUIRotationEffectAnimationTests */,
+				D66D587E2CF4BCD90077A90D /* SwiftUIRotationEffectAnimationUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D66D58632CF4BCD60077A90D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D58732CF4BCD90077A90D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D587D2CF4BCD90077A90D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D66D58612CF4BCD60077A90D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D58712CF4BCD90077A90D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D66D587B2CF4BCD90077A90D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D66D58772CF4BCD90077A90D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D66D58642CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */;
+			targetProxy = D66D58762CF4BCD90077A90D /* PBXContainerItemProxy */;
+		};
+		D66D58812CF4BCD90077A90D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D66D58642CF4BCD60077A90D /* SwiftUIRotationEffectAnimation */;
+			targetProxy = D66D58802CF4BCD90077A90D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D66D58872CF4BCD90077A90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D66D58882CF4BCD90077A90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D66D588A2CF4BCD90077A90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIRotationEffectAnimation/Preview Content\"";
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D66D588B2CF4BCD90077A90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIRotationEffectAnimation/Preview Content\"";
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimation;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D66D588D2CF4BCD90077A90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimationTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUIRotationEffectAnimation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUIRotationEffectAnimation";
+			};
+			name = Debug;
+		};
+		D66D588E2CF4BCD90077A90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimationTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SwiftUIRotationEffectAnimation.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SwiftUIRotationEffectAnimation";
+			};
+			name = Release;
+		};
+		D66D58902CF4BCD90077A90D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimationUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftUIRotationEffectAnimation;
+			};
+			name = Debug;
+		};
+		D66D58912CF4BCD90077A90D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = K6LJCT8RAA;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.template.SwiftUIRotationEffectAnimationUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SwiftUIRotationEffectAnimation;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D66D58602CF4BCD60077A90D /* Build configuration list for PBXProject "SwiftUIRotationEffectAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D66D58872CF4BCD90077A90D /* Debug */,
+				D66D58882CF4BCD90077A90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D66D58892CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D66D588A2CF4BCD90077A90D /* Debug */,
+				D66D588B2CF4BCD90077A90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D66D588C2CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D66D588D2CF4BCD90077A90D /* Debug */,
+				D66D588E2CF4BCD90077A90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D66D588F2CF4BCD90077A90D /* Build configuration list for PBXNativeTarget "SwiftUIRotationEffectAnimationUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D66D58902CF4BCD90077A90D /* Debug */,
+				D66D58912CF4BCD90077A90D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D66D585D2CF4BCD60077A90D /* Project object */;
+}
