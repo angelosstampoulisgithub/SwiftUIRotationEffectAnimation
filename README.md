@@ -2,5 +2,9 @@
 I made this simple iOS app in SwiftUI to show how rotationEffect works
 
 
-Uploading Simulator Screen Recording - iPhone 16 Pro - 2024-11-25 at 16.21.01.mp4…
+
+
+https://github.com/user-attachments/assets/af7e74ac-95c7-4551-9af0-64fbad43bced
+
+
 
